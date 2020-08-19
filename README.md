@@ -5,9 +5,9 @@
 
 ---
 
-[![](https://img.shields.io/badge/Studying%20at-NITIC-e38542?style=for-the-badge)](/#)
-[![](https://img.shields.io/badge/Class-2I-427de3?style=for-the-badge)](/#)
-[![](https://img.shields.io/badge/moving%20up-May%20fail-d13030?style=for-the-badge)](/#)
+[![](https://img.shields.io/badge/Studying%20at-NITIC-e38542?style=for-the-badge)]()
+[![](https://img.shields.io/badge/Class-2I-427de3?style=for-the-badge)]()
+[![](https://img.shields.io/badge/moving%20up-May%20fail-d13030?style=for-the-badge)]()
 
 ---
 
