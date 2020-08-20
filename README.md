@@ -1,16 +1,33 @@
-### Hi! :wave:
+## Hi! :wave:
 
+#### `me.get_stats()`
+<span></span>
 ![](https://github-readme-stats.vercel.app/api?username=loxygenK&show_icons=true&title_color=0c3d7d&icon_color=5b8fd4)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=loxygenK&layout=compact&hide=html&title_color=0c3d7d)
 
----
+-----
 
+#### `me.get_fundamental_infos()`
+<span></span>
 [![](https://img.shields.io/badge/Studying%20at-NITIC-e38542?style=for-the-badge)](#)
 [![](https://img.shields.io/badge/Class-2I-427de3?style=for-the-badge)](#)
 [![](https://img.shields.io/badge/moving%20up-May%20fail-d13030?style=for-the-badge)](#)
 
+#### `me.get_envs()`
+<span></span>
+[![](https://img.shields.io/badge/Env-ArchLinux-1793D1?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/Editor-nvim/JetBrains-cc9458?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/Keyboard-HHKB-333333?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/Mouse-Logi%20M590-333333?style=for-the-badge)](#)
+
+#### `me.get_favorites(type=FavoritesType.LANGUAGE)`
+<span></span>
+[![](https://img.shields.io/badge/Python-love%20it-0277BD?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/kotlin-love%20it;studying-FF8516?style=for-the-badge)](#)
 ---
 
+#### `me.get_links()`
+<span></span>
 [![](https://img.shields.io/badge/Twitter%231-@loxygenK-blue?style=for-the-badge)](https://twitter.com/loxygenK)
 [![](https://img.shields.io/badge/Twitter%232-@flisan__loxy-blue?style=for-the-badge)](https://twitter.com/flisan_loxy)
 [![](https://img.shields.io/badge/Website-loxygen.dev-101554?style=for-the-badge)](https://loxygen.dev)
