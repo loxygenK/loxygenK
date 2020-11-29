@@ -24,6 +24,7 @@
 <span></span>
 [![](https://img.shields.io/badge/Python-love%20it-0277BD?style=for-the-badge)](#)
 [![](https://img.shields.io/badge/kotlin-love%20it;studying-FF8516?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/Rust-studying-690700?style=for-the-badge)](#)
 
 #### `me.get_links()`
 <span></span>
