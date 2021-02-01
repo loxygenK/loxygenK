@@ -4,6 +4,7 @@
 <span></span>
 ![](https://github-readme-stats.vercel.app/api?username=loxygenK&show_icons=true&title_color=0c3d7d&icon_color=5b8fd4)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=loxygenK&layout=compact&hide=html&title_color=0c3d7d)
+[![trophy](https://github-profile-trophy.vercel.app/?username=loxygenK)](https://github.com/ryo-ma/github-profile-trophy)
 
 -----
 
