@@ -18,9 +18,8 @@
 <span></span>
 [![](https://img.shields.io/badge/Env-ArchLinux-1793D1?style=for-the-badge)](#)
 [![](https://img.shields.io/badge/Editor-nvim/JetBrains-cc9458?style=for-the-badge)](#)
-[![](https://img.shields.io/badge/Keyboard-HHKB-333333?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/Keyboard-DZ60RGB-333333?style=for-the-badge)](https://github.com/loxygenK/dz60rgb-config)
 [![](https://img.shields.io/badge/Mouse-Logi%20ERGO%20M575S-333333?style=for-the-badge)](#)
-[![](https://img.shields.io/badge/Mouse(SUB)-Logi%20M590-333333?style=for-the-badge)](#)
 
 #### `me.get_favorites(type=FavoritesType.LANGUAGE)`
 <span></span>
