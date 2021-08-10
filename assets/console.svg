@@ -59,7 +59,7 @@
     <text x="2em" y="20.8em"><tspan class="keyword">"editor-ide"</tspan>: [<tspan class="jq-value">"Neovim"</tspan>, <tspan class="jq-value">"JetBrains IDE"</tspan>],</text>
     <text x="2em" y="22.1em"><tspan class="keyword">"os"</tspan>: <tspan class="jq-value">"Arch Linux"</tspan>, </text>
     <text x="2em" y="23.4em"><tspan class="comment">/* I use Arch btw */</tspan></text>
-    <text x="2em" y="24.7em"><tspan class="keyword">"sushi"</tspan>: <tspan class="jq-value">"Salmon...♥ "</tspan>, </text>
+    <text x="2em" y="24.7em"><tspan class="keyword">"sushi"</tspan>: <tspan class="jq-value">"Salmon...♥ "</tspan></text>
     <text x="1em" y="26.0em">}</text>
     <text x="0" y="27.3em">}</text>
   </g>
