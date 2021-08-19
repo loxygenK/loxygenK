@@ -1,4 +1,4 @@
-![](https://pbs.twimg.com/profile_banners/1142621647976841216/1624115428/1500x500)
+![](https://raw.githubusercontent.com/loxygenK/loxygenK/master/assets/header.png)
 
 <h1 align="center">Hello!</h1>
 
