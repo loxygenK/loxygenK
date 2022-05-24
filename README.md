@@ -1,16 +1,5 @@
-![](https://raw.githubusercontent.com/loxygenK/loxygenK/master/assets/header.png)
-
-<h1 align="center">Hello!</h1>
-
-<div align="center">
-  
-  ![](https://raw.githubusercontent.com/loxygenK/loxygenK/master/assets/console.svg)
-  
-  ![](https://github-readme-stats.vercel.app/api?username=loxygenK&show_icons=true&title_color=0c3d7d&icon_color=5b8fd4)
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=loxygenK)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
+![image](https://user-images.githubusercontent.com/55672846/169958846-528c8b8a-e54e-4a08-bf58-fb9663428ef0.png#gh-light-mode-only)
+![image](https://user-images.githubusercontent.com/55672846/169959534-c7766c56-9254-4829-8b94-604eb071ba0a.png#gh-dark-mode-only)
   
 
 
