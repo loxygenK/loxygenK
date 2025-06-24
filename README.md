@@ -1,6 +1,4 @@
-![image](https://user-images.githubusercontent.com/55672846/169958846-528c8b8a-e54e-4a08-bf58-fb9663428ef0.png#gh-light-mode-only)
-![image](https://user-images.githubusercontent.com/55672846/169959534-c7766c56-9254-4829-8b94-604eb071ba0a.png#gh-dark-mode-only)
-  
+![image](https://github.com/user-attachments/assets/ad3a8495-8b97-4ceb-bd6f-e9946ebf0d6b)
 
 
 <!--
